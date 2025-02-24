@@ -9,8 +9,8 @@ El objetivo de este trabajo es investigar la aplicación de RAN Slicing para ges
 
 ## Estructura del Repositorio
 
-- **`/Source`** : Contiene todos los scripts de MATLAB utilizados para realizar las simulaciones.
 - **`/Results`** : Carpeta donde se almacenan los resultados de las simulaciones en distintos escenarios.
+- **`/Source`** : Contiene todos los scripts de MATLAB utilizados para realizar las simulaciones.
 
 ## Requisitos
 
