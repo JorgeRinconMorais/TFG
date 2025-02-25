@@ -37,14 +37,14 @@ Para ejecutar las simulaciones, se recomienda contar con:
 ## Licencia
 Creative Commons Attribution 4.0 International (CC BY 4.0)
 
-Copyright © [Año] [Tu Nombre o Nombre de la Organización]
+Copyright © [2025] [Jorge Rincón Moráis, Jan García Morales & Alejandro de la Fuente Iglesias]
 
 Este trabajo está licenciado bajo la Licencia Creative Commons Attribution 4.0 International. 
 Para ver una copia de esta licencia, visita https://creativecommons.org/licenses/by/4.0/.
 
 ### Derechos otorgados por la licencia:
 - Puedes compartir, copiar y redistribuir el material en cualquier medio o formato.
-- Puedes adaptar, transformar y construir a partir del material para cualquier propósito, incluso comercialmente.
+- Puedes adaptar, transformar y construir a partir del material.
 
 ### Bajo los siguientes términos:
 - **Atribución**: Debes dar crédito de manera adecuada, proporcionar un enlace a la licencia e indicar si se han realizado cambios. Puedes hacerlo de cualquier manera razonable, pero no de una manera que sugiera que el licenciante te respalda o respalda tu uso.
