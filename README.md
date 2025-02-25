@@ -1,7 +1,7 @@
-# Título TFG
+# Implementación de RAN Slicing sobre una red Cell-Free Massive MIMO
 
 Este repositorio contiene el código fuente y las simulaciones utilizadas para el Trabajo de Fin de Grado titulado  
-**"Título TFG"**.  
+**"Implementación de RAN Slicing sobre una red Cell-Free Massive MIMO"**.  
 
 ## Objetivo del Proyecto
 
@@ -28,7 +28,7 @@ Para ejecutar las simulaciones, se recomienda contar con:
 
 
 2. Navega al directorio de scripts y ejecuta los archivos MATLAB
-   cd TFG/Source
+   ```cd TFG/Source
   matlab main.mlx
 
 ## Contribuciones
