@@ -37,7 +37,7 @@ Para ejecutar las simulaciones, se recomienda contar con:
 ## Licencia
 Creative Commons Attribution 4.0 International (CC BY 4.0)
 
-Copyright (c) [Año] [Tu Nombre o Nombre de la Organización]
+Copyright © [Año] [Tu Nombre o Nombre de la Organización]
 
 Este trabajo está licenciado bajo la Licencia Creative Commons Attribution 4.0 International. 
 Para ver una copia de esta licencia, visita https://creativecommons.org/licenses/by/4.0/.
